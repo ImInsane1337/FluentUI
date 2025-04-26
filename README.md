@@ -1,4 +1,4 @@
-# Fluent Renewed
+# Fluent Renewed v2
 
 ![Fluent Renewed Title](Assets/darkmode.png#gh-dark-mode-only)
 ![Fluent Renewed Title](Assets/darkmode.png#gh-light-mode-only)
@@ -14,18 +14,18 @@
 You can load Fluent through a GitHub Release:
 
 ```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
+local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ImInsane1337/Fluent/releases/latest/download/Fluent.luau", true))()
 ```
 
 ```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
+local Library = loadstring(game:HttpGetAsync("https://github.com/ImInsane1337/Fluent/releases/latest/download/Fluent.luau", true))()
 ```
 
 ## 📜 Usage
 
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
+[Example Script the studio environment](https://github.com/ImInsane1337/Fluent/blob/master/Example.client.luau)
 
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
+[Example Script for an exploit environment](https://github.com/ImInsane1337/Fluent/blob/master/Example.luau)
 
 ## Credits
 
